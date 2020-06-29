@@ -1,7 +1,9 @@
 # Byte-compiled / optimized / DLL files
+*ipynb
 __pycache__/
 *.py[cod]
 *$py.class
+resources
 
 # C extensions
 *.so
