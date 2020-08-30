@@ -4,8 +4,6 @@ __pycache__/
 *$py.class
 resources
 
-14*
-
 # C extensions
 *.so
 
