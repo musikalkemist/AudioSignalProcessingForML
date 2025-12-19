@@ -8,12 +8,7 @@ Thank you to everyone who has contributed to the success of this project! Your e
 
 * **musikalkemist:** Author and project creator.
 * **HimanshuKGP007:** Project reviewer.
-* **GuillermoOvejeroSanchez:**
-    - Provided a fix for a folder naming issue #1.
-    - Renamed folders for consistency in Pull Request #2.
-* **Thecimal:**: Identified and reported the API change for `librosa.feature.rms()` in Issue #7, leading to a fix that addressed a non-functional part of the code.
-* **YinhuaChen-cloud:** Resolved the `librosa.waveplot()` deprecation in Issue #6, by updating files 8, 9, and 10 to use the modern `librosa.display.waveshow` function.
-* **MLsound:**
+* **MLsound:**  Project maintainer.
     - Cleanup and Documentation Updates:
         - Cleaned up and organized audio files in Pull Request #10.
         - Updated README.md to include full course structure and links.
@@ -23,3 +18,12 @@ Thank you to everyone who has contributed to the success of this project! Your e
         - reviewed the code,
         - updated deprecated functions for the librosa API,
         - tested every Notebook is working.
+* **GuillermoOvejeroSanchez:**
+    - Provided a fix for a folder naming issue #1.
+    - Renamed folders for consistency in Pull Request #2.
+* **Thecimal:** Identified and reported the API change for `librosa.feature.rms()` in Issue #7, leading to a fix that addressed a non-functional part of the code.
+* **YinhuaChen-cloud:** Resolved the `librosa.waveplot()` deprecation in Issue #7, by updating files 8, 9, and 10 to use the modern `librosa.display.waveshow` function.
+
+---
+
+Want to see your name on this list? Check out our [CONTRIBUTING.md](CONTRIBUTING.md) file to learn how you can help!
