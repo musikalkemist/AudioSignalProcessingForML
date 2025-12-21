@@ -61,32 +61,32 @@ This repository is a comprehensive collection of resources, code, and explanatio
 <!-- Reference links for every chapter:
 YouTube videos (#yt), PDF-file slides (#sl) and Jupyter Notebooks (#nb) -->
 [1yt]: https://www.youtube.com/watch?v=iCwMQJnKk2c
-[1sl]: <1- Overview/Audio Signal Processing for Machine Learning.pdf>
+[1sl]: <01 - Overview/Audio Signal Processing for Machine Learning.pdf>
 
 [2yt]: https://www.youtube.com/watch?v=bnHHVo3j124
-[2sl]: <2- Sound and waveforms/2- Sound and waveforms.pdf>
+[2sl]: <02 - Sound and waveforms/2 - Sound and waveforms.pdf>
 
 [3yt]: https://www.youtube.com/watch?v=Jkoysm1fHUw
-[3sl]: <3- Intensity, loudness, and timbre/Intensity, loudness, and timbre.pdf>
-[3nb]: <3- Intensity, loudness, and timbre/intensity_and_timbre.ipynb>
+[3sl]: <03 - Intensity, loudness, and timbre/Intensity, loudness, and timbre.pdf>
+[3nb]: <03 - Intensity, loudness, and timbre/intensity_and_timbre.ipynb>
 
 [4yt]: https://www.youtube.com/watch?v=daB9naGBVv4
-[4sl]: <4- Understanding audio signals/Understanding audio signals.pdf>
+[4sl]: <04 - Understanding audio signals/Understanding audio signals.pdf>
 
 [5yt]: https://www.youtube.com/watch?v=ZZ9u1vUtcIA
-[5sl]: <5- Types of audio features for ML/Types of Audio Features for ML.pdf>
+[5sl]: <05 - Types of audio features for ML/Types of Audio Features for ML.pdf>
 
 [6yt]: https://www.youtube.com/watch?v=8A-W1xk7qs8
-[6sl]: <6- How to extract audio features/How to extract audio features.pdf>
+[6sl]: <06 - How to extract audio features/How to extract audio features.pdf>
 
 [7yt]: https://www.youtube.com/watch?v=SRrQ_v-OOSg
-[7sl]: <7- Time-domain audio features/Time-domain audio features.pdf>
+[7sl]: <07 - Time-domain audio features/Time-domain audio features.pdf>
 
 [8yt]: https://www.youtube.com/watch?v=rlypsap6Wow
-[8nb]: <8- Implementing the amplitude envelope/Implementing the amplitude envelope.ipynb>
+[8nb]: <08 - Implementing the amplitude envelope/Implementing the amplitude envelope.ipynb>
 
 [9yt]: https://www.youtube.com/watch?v=EycaSbIRx-0
-[9nb]: <9- RMS energy and zero-crossing rate/RMS Energy and Zero-Crossing Rate.ipynb>
+[9nb]: <09 - RMS energy and zero-crossing rate/RMS Energy and Zero-Crossing Rate.ipynb>
 
 [10yt]: https://www.youtube.com/watch?v=XQ45IgG6rJ4
 [10sl]: <10 - Fourier Transform: The Intuition/Demystifying the Fourier Transform The Intuition.pdf>
@@ -95,14 +95,14 @@ YouTube videos (#yt), PDF-file slides (#sl) and Jupyter Notebooks (#nb) -->
 [11sl]: <11 - Complex numbers for audio signal processing/Complex numbers.pdf>
 
 [12yt]: https://www.youtube.com/watch?v=KxRmbtJWUzI
-[12sl]: <12- Defining the Fourier transform using complex numbers/Defining the Fourier Transform Using Complex Numbers.pdf>
-[12nb]: <12- Defining the Fourier transform using complex numbers/Defining the Fourier Transform Using  Complex Numbers.ipynb>
+[12sl]: <12 - Defining the Fourier transform using complex numbers/Defining the Fourier Transform Using Complex Numbers.pdf>
+[12nb]: <12 - Defining the Fourier transform using complex numbers/Defining the Fourier Transform Using  Complex Numbers.ipynb>
 
 [13yt]: https://www.youtube.com/watch?v=ZUi_jdOyxIQ
-[13sl]: <13- Discrete Fourier Transform/Discrete Fourier Transform.pdf>
+[13sl]: <13 - Discrete Fourier Transform/Discrete Fourier Transform.pdf>
 
 [14yt]: https://www.youtube.com/watch?v=R-5uxKTRjzM
-[14nb]: <14- Extracting the Discrete Fourier Transform/Visualising the Power Spectrum.ipynb>
+[14nb]: <14 - Extracting the Discrete Fourier Transform/Visualising the Power Spectrum.ipynb>
 
 [15yt]: https://www.youtube.com/watch?v=-Yxj3yfvY-4
 [15sl]: <15 - Short-Time Fourier Transform explained easily/Short-Time Fourier Transform Explained Easily.pdf>
@@ -117,10 +117,10 @@ YouTube videos (#yt), PDF-file slides (#sl) and Jupyter Notebooks (#nb) -->
 [18nb]: <18 - Extracting Mel Spectrograms with Python/Extracting Mel Spectrograms.ipynb>
 
 [19yt]: https://www.youtube.com/watch?v=4_SH2nfbQZ8
-[19sl]: <19- MFCCs Explained Easily/Mel-Frequency Cepstral Coefficients Explained Easily.pdf>
+[19sl]: <19 - MFCCs Explained Easily/Mel-Frequency Cepstral Coefficients Explained Easily.pdf>
 
 [20yt]: https://www.youtube.com/watch?v=WJI-17MNpdE
-[20nb]: <20- Extracting MFCCs with Python/Extracting MFCCs.ipynb>
+[20nb]: <20 - Extracting MFCCs with Python/Extracting MFCCs.ipynb>
 
 [21yt]: https://www.youtube.com/watch?v=3-bjAoAxQ9o
 [21sl]: <21 - Frequency-Domain Audio Features/Frequency-domain audio features.pdf>
@@ -129,4 +129,4 @@ YouTube videos (#yt), PDF-file slides (#sl) and Jupyter Notebooks (#nb) -->
 [22nb]: <22 - Implementing Band Energy Ratio from Scratch with Python/Implementing band energy ratio from scratch.ipynb>
 
 [23yt]: https://www.youtube.com/watch?v=j6NTatoi928
-[23nb]: <23- Spectral centroid and bandwidth/Spectral centroid and bandwidth.ipynb>
+[23nb]: <23 - Spectral centroid and bandwidth/Spectral centroid and bandwidth.ipynb>
