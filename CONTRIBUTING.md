@@ -6,7 +6,7 @@ This document outlines how you can contribute, from reporting bugs to submitting
 
 ## Found a Bug?
 
-If you find a bug, please help us by [opening an issue on GitHub](https://github.com/MLsound/AudioSignalProcessingForML/issues).
+If you find a bug, please help us by [opening an issue on GitHub](https://github.com/musikalkemist/AudioSignalProcessingForML/issues).
 
 When creating an issue, please include as many details as possible:
 * A clear, descriptive title.
@@ -16,7 +16,7 @@ When creating an issue, please include as many details as possible:
 
 ## Want to Suggest a Feature?
 
-We'd love to hear your ideas! Please [open an issue](https://github.com/MLsound/AudioSignalProcessingForML/issues) with the tag `enhancement` and describe your feature suggestion in detail.
+We'd love to hear your ideas! Please [open an issue](https://github.com/musikalkemist/AudioSignalProcessingForML/issues) with the tag `enhancement` and describe your feature suggestion in detail.
 
 ## Ready to Contribute Code?
 
