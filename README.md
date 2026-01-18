@@ -4,6 +4,15 @@ Code and slides of my YouTube series called "[Audio Signal Proessing for Machine
 
 This repository is a comprehensive collection of resources, code, and explanations for understanding and implementing audio signal processing techniques, with a focus on applications in machine learning. It serves as a learning guide, starting from the fundamentals of sound and waveforms and progressing to advanced feature extraction methods.
 
+![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)
+![librosa](https://img.shields.io/badge/librosa-9418A8?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-004a96?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
+### Note on Versioning
+> While this v2 release is fully functional and optimized for current environments, it may differ from the original version shown in the course. The codebase has been updated to reflect modern best practices and improved dependency management. Consequently, the original course version has been deprecated; however, it remains available in the [legacy branch](https://github.com/musikalkemist/AudioSignalProcessingForML/tree/legacy) for those wishing to follow the video content exactly.
+
 ## Course Structure
 
 ### Foundational Concepts
@@ -57,6 +66,7 @@ This repository is a comprehensive collection of resources, code, and explanatio
 ### Audio examples
 
 * [**`audio_resources/`**](<audio_resources/>): A collection of .wav files used for the examples in the notebooks.
+
 
 <!-- Reference links for every chapter:
 YouTube videos (#yt), PDF-file slides (#sl) and Jupyter Notebooks (#nb) -->

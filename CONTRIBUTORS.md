@@ -4,20 +4,25 @@ Thank you to everyone who has contributed to the success of this project! Your e
 
 ---
 
-### Community & Project Maintainers
+## Community & Project Maintainers
 
 * **musikalkemist:** Author and project creator.
 * **HimanshuKGP007:** Project reviewer.
 * **MLsound:**  Project maintainer.
-    - Cleanup and Documentation Updates:
+    - **Refactoring & Maintenance:**
+        - Updated `README.md` to include the full course structure and navigation links.
+        - Added `CONTRIBUTING.md` and `CONTRIBUTORS.md` guidelines.
+        - Aligned logic between project folders and refined `.gitignore`.
+        - Updated dependencies for Python 3.11 compatibility.
         - Cleaned up and organized audio files in Pull Request #10.
-        - Updated README.md to include full course structure and links.
-        - Added a requirements.txt file for dependency management.
-        - Added the CONTRIBUTORS.md file to the repository.
+    - **Version Management:** Established and organized the legacy branch to preserve the original course environment for students, ensuring compatibility with legacy video content while moving the main repository to modern standards.
     - Addressed Issue #8:
         - reviewed the code,
         - updated deprecated functions for the librosa API,
         - tested every Notebook is working.
+
+### Contributors
+
 * **GuillermoOvejeroSanchez:**
     - Provided a fix for a folder naming issue #1.
     - Renamed folders for consistency in Pull Request #2.
